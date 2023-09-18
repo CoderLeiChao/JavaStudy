@@ -62,7 +62,7 @@ We generally recommend that you locate your main application class in a root pac
 @ConfigurationProperties中的ServerProperties类的属性将发生变化。
 ![Port Change](portchange.png)
 
-
+* xxxproperties和xxxAutoconfigure 关联配置加载
 
 
 
